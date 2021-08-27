@@ -1,0 +1,19 @@
+.home{
+    background-color: #FFF7AE;
+    padding: 3rem 1rem;
+}
+
+#about{
+    background-color: white;
+    padding: 3rem 1rem;
+}
+
+#portfolio{
+    background-color: #FFF7AE;
+    padding: 2rem 1rem;
+}
+
+#contact{
+    background-color: white;
+    padding: 4rem 1rem;
+}
